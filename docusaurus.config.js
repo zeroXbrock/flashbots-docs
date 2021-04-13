@@ -55,6 +55,14 @@ module.exports = {
           routeBasePath: '/',
           editUrl:
             'https://github.com/flashbots/docs/edit/main/',
+          editCurrentVersion: true,
+          // lastVersion: "current",
+          // versions: {
+          //   current: {
+          //     "label": "0.1.0",
+          //     "path": "/"
+          //   }
+          // }
         },
         theme: {
 

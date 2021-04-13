@@ -1,0 +1,152 @@
+{
+  "version-0.1.0/docs": [
+    {
+      "type": "doc",
+      "id": "version-0.1.0/welcome"
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Flashbots Core",
+      "items": [
+        {
+          "collapsed": true,
+          "type": "category",
+          "label": "For searchers",
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/searchers/searchers-introduction"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/searchers/searcher-quick-start"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/searchers/searcher-implementation-faq"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/searchers/searchers-interacting-with-relay"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/searchers/ethers-provider-flashbots-bundle"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/searchers/web3-flashbots"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "type": "category",
+          "label": "For miners & mining pools",
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/miners/miners-introduction"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/miners/miners-quick-start"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/miners/miners-implementation-faq"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/miners/mev-geth"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/miners/mev-geth-demo"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/miners/mev-proxy"
+            }
+          ]
+        },
+        {
+          "collapsed": true,
+          "type": "category",
+          "label": "For whitehats",
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/whitehats/whitehat-introduction"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-core/whitehats/searcher-sponsored-tx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Flashbots Data",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.1.0/flashbots-data/blockapi"
+        },
+        {
+          "collapsed": true,
+          "type": "category",
+          "label": "MEV-Explore",
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-data/mev-explore/explore-data-metrics"
+            },
+            {
+              "type": "doc",
+              "id": "version-0.1.0/flashbots-data/mev-explore/explore-introduction"
+            },
+            {
+              "collapsed": true,
+              "type": "category",
+              "label": "mev-inspect-rs",
+              "items": [
+                {
+                  "type": "doc",
+                  "id": "version-0.1.0/flashbots-data/mev-explore/mev-inspect-rs/inspect-quick-start"
+                },
+                {
+                  "type": "doc",
+                  "id": "version-0.1.0/flashbots-data/mev-explore/mev-inspect-rs/inspect-codebase"
+                },
+                {
+                  "type": "doc",
+                  "id": "version-0.1.0/flashbots-data/mev-explore/mev-inspect-rs/inspect-inspector-example"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "How to contribute",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.1.0/contribution/docs-contribution-guide"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.1.0/contribution/become-a-contributor"
+        }
+      ]
+    }
+  ]
+}
